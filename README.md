@@ -9,3 +9,5 @@
 ![Screenshot (10)](https://user-images.githubusercontent.com/110597836/183856251-2008774c-0d5c-4ff8-b740-6f27d4efff83.png)
 #practical-1 question 5
 ![Screenshot (11)](https://user-images.githubusercontent.com/110597836/183856337-a7bc8a47-676c-4bff-b0df-898a2507c9fd.png)
+#practical-1 cquestion 6
+![Screenshot (12)](https://user-images.githubusercontent.com/110597836/183859569-def5b1c8-7826-4942-946d-498a9e275926.png)
