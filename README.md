@@ -4,5 +4,8 @@
 #practical-1 question 1
 ![Screenshot (4)](https://user-images.githubusercontent.com/110597836/183359851-6a020310-b965-4fc0-90dd-cf7962dac446.png)
 #practical-1 question 2
-
 ![Screenshot (80)](https://user-images.githubusercontent.com/110597836/183713497-0af70a4b-064b-4f40-be27-84cf9de8e272.png)
+#practical-1 question 4
+![Screenshot (10)](https://user-images.githubusercontent.com/110597836/183856251-2008774c-0d5c-4ff8-b740-6f27d4efff83.png)
+#practical-1 question 5
+![Screenshot (11)](https://user-images.githubusercontent.com/110597836/183856337-a7bc8a47-676c-4bff-b0df-898a2507c9fd.png)
