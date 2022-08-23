@@ -18,5 +18,6 @@
 #practical-1 cquestion 9
 ![Screenshot (84)](https://user-images.githubusercontent.com/110597836/186196177-3b3bd235-4b41-42cc-a56e-3a3974309bd3.png)
 #practical-1 cquestion 10
-
+![Uploading Screenshot (86).png…]()
 #practical-1 cquestion 11
+![Screenshot (87)](https://user-images.githubusercontent.com/110597836/186199897-af500554-ad91-485b-86b7-a4eaba5602d9.png)
